@@ -7,8 +7,8 @@ var app = express()
 var state = {
   messages: [{
 		id: 0,
-    username: 'Guy',
-    text: 'Welcome to the chat',
+    username: 'Ghost of Christmas Chat',
+    text: 'Talk to me i am so lonely :(',
   }]
 };
 
